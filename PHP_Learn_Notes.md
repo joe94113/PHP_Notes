@@ -563,3 +563,16 @@ echo ANIMALS[1]; // 將輸出 "cat"
     
 ## PHP流程控制
 
+- If Else 判斷句
+    If 可以使用在判斷某條件達成時執行語句，else則是在不滿該條下執行。
+    
+    以下使用範例示範
+    ```php
+    <?php
+    if ($a > $b){
+    console.log("a win");
+    }else {
+    console.log("b win");
+    }
+    ?>
+    ```
